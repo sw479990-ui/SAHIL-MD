@@ -1,0 +1,15 @@
+{
+  "name": "sahil-md-ultra",
+  "version": "3.0.0",
+  "description": "SAHIL-MD Ultra WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.0.0",
+    "axios": "^1.6.0",
+    "node-fetch": "^2.7.0"
+  }
+}
